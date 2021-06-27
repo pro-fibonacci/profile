@@ -1,3 +1,7 @@
+alert(
+  " please to view for more responsiveness desktop view site in setting or auto rotate "
+);
+
 $(document).ready(function () {
   $("#profile").mouseenter(function () {
     $(this).hide();
